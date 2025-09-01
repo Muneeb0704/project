@@ -11,7 +11,7 @@ _this is project_\
 [google](https://www.google.com/ "fghfhfhf")
 ![image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-#List
+# List
 1. saira
 1. sjkfsj
 3. ayub
@@ -22,10 +22,10 @@ _this is project_\
 - ksjdfksd
 - kjsdkf
 - ksdjfk
-- ksdjfk\
+- ksdjfk
   
   H<sub>2</sub>O\
-  x<sup>2</sup>\
+  x<sup>2</sup>
   >this is quote
 >this is a project
 
