@@ -4,10 +4,11 @@
 
 **this is a project**\
 _this is project_\
-~this is project~
+~~this is project~~
 
 ### links
-[image](https://myoctocat.com/assets/images/base-octocat.svg)
+[google](https://www.google.com/ "google")
+![image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 #List
 1. saira
