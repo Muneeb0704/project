@@ -7,7 +7,7 @@ _this is project_\
 ~this is project~
 
 ### links
-[image]https://myoctocat.com/assets/images/base-octocat.svg
+[image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 #List
 1. saira
