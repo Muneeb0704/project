@@ -4,7 +4,7 @@
 
 **this is a project**\
 _this is project_\
-~this is project~\
+~this is project~
 
 ### links
 https://myoctocat.com/assets/images/base-octocat.svg
